@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[House]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)

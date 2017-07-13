@@ -1,0 +1,9 @@
+E:\Projects\housesportal\AspApp\Database1\bin\Debug\Database1.dacpac
+E:\Projects\housesportal\AspApp\Database1\bin\Debug\Database1.dll
+E:\Projects\housesportal\AspApp\Database1\bin\Debug\Database1.pdb
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\Model.xml
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\refactor.xml
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\postdeploy.sql
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\predeploy.sql
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\Database1.dll
+E:\Projects\housesportal\AspApp\Database1\obj\Debug\Database1.pdb
